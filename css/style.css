@@ -368,3 +368,7 @@
 
 
 
+/* Dashed red border */
+hr.new2 {
+  border-top: 2px dashed var(--c-main);
+}
